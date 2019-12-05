@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name" translatable="false">Intro Slider</string>
+    <string name="title_activity_welcome" translatable="false">Home Screen</string>
+    <string name="next" translatable="false">NEXT</string>
+    <string name="skip" translatable="false">SKIP</string>
+    <string name="start" translatable="false">GOT IT</string>
+    <string name="for_every_individual_to_be_able_to_be_helpful_during_a_medical_emergency" translatable="false">For every Individual to be able to be helpful during a Medical Emergency</string>
+    <string name="measures" translatable="false">MEASURES</string>
+    <string name="call_function" translatable="false">CALL FUNCTION</string>
+    <string name="get_connected_to_the_nearest_hospital_ambulance_service" translatable="false">Get connected to the nearest Hospital / Ambulance Service</string>
+    <string name="navigation" translatable="false">NAVIGATION</string>
+    <string name="locate_the_nearest_ambulance_service_and_keep_track" translatable="false">Locate the nearest Ambulance Service and keep Track</string>
+    <string name="helpline_number" translatable="false">HELPLINE NUMBER</string>
+    <string name="a_24_7_helpline_number_availability" translatable="false">A 24/7 Helpline Number availability</string>
+    <string name="play_again_desc" translatable="false">PLAY AGAIN</string>
+    <string name="play_again" translatable="false">PLAY AGAIN</string>
+
+</resources>
